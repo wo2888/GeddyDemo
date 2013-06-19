@@ -1,0 +1,2 @@
+[Tue, 18 Jun 2013 05:52:13 GMT] ACCESS 10.133.65.61 - - [Tue Jun 18 2013 13:52:13 GMT+0800 (中国标准时间)] "GET /favicon.ico 1.1" 200 318 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36"
+[Tue, 18 Jun 2013 06:01:46 GMT] ACCESS 10.133.65.61 - - [Tue Jun 18 2013 14:01:46 GMT+0800 (中国标准时间)] "GET /login 1.1" 404 17 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36"
